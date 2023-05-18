@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/maps">
+        <file>7_easy.txt</file>
+        <file>7_hard.txt</file>
+        <file>10_easy.txt</file>
+        <file>10_hard.txt</file>
+        <file>10_normal.txt</file>
+        <file>14_easy.txt</file>
+        <file>14_hard.txt</file>
+        <file>14_normal.txt</file>
+        <file>7_normal.txt</file>
+    </qresource>
+</RCC>

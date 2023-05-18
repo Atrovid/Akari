@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/translations">
+        <file>Akari_en.qm</file>
+        <file>Akari_en.ts</file>
+        <file>Akari_fr.qm</file>
+        <file>Akari_fr.ts</file>
+    </qresource>
+    <qresource prefix="/new/prefix1"/>
+</RCC>
